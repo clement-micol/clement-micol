@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @clement-micol
-- 👀 I’m interested in Optimization and Machine Learning.
-- 🌱 I’m currently learning more about ML, especially I'm learning about Transformers Model.
-- 📫 You can reach me on mc5104@columbia.edu.
+![My presentation gif](https://github.com/clement-micol/clement-micol/blob/main/CodePen%20-%20Particle%20Network%20Animation%20-%20Google%20Chrome%202022-04-06%2000-35-09_Trim.gif)
 
 <!---
 clement-micol/clement-micol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
